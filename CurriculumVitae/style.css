@@ -1,0 +1,180 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.texto{
+    
+    padding: 15px;
+    color: white;
+    float: left;
+}
+
+body{
+    height: 1500px;
+    width: 1600px;
+    margin: auto;
+    margin-top: 6px;
+    border: solid;
+}
+
+header{
+    height: 240px;
+    width: 330px;
+    background-color: blue
+}
+
+#encabezado{
+    height: 240px;
+    width: 1270;
+    background-color: green;
+}
+
+#imagen{
+    border-radius: 50%;
+    padding: 60px;
+    float: left;
+}
+
+main{
+    height: 1260px;
+    width: 330px;
+    background-color: gray;
+}
+
+#line{
+    height: 10px;
+    width: 310px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 50px;
+    float: left;
+}
+
+#line2{
+    height: 10px;
+    width: 310px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 50px;
+    float: left;
+}
+
+#line3{
+    height: 10px;
+    width: 310px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 50px;
+    float: left;
+}
+
+#line4{
+    height: 10px;
+    width: 310px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 50px;
+    float: left;
+}
+
+#line5{
+    height: 10px;
+    width: 1262px;
+    background-color: blue;
+    margin: 5px;
+    border-radius: 50px;
+    float: left;
+}
+
+#line6{
+    height: 10px;
+    width: 1262px;
+    background-color: blue;
+    margin: 5px;
+    border-radius: 50px;
+    float: left;
+}
+
+
+
+#titulo{
+    color: white;
+    padding: 5px;
+    float: left;
+}
+
+#titulo2{
+    color: white;
+    padding: 5px;
+    float: left;
+}
+
+#titulo3{
+    color: white;
+    padding: 5px;
+    float: left;
+}
+
+#titulo4{
+    color: white;
+    padding: 5px;
+    float: left;
+}
+
+#sub{
+    height: 70px;
+    width: 325px;
+    padding: 1px;
+    color: white;
+    display: flex;
+    float: left;
+}
+
+#sub2{
+    height: 70px;
+    width: 325px;
+    padding: 1px;
+    color: white;
+    display: flex;
+    float: left;
+}
+
+#sub3{
+    height: 80px;
+    width: 325px;
+    padding: 3px;
+    color: white;
+    display: flex;
+    float: left;
+}
+
+#sub4{
+    height: 90px;
+    width: 325px;
+    padding: 5px;
+    color: white;
+    display: flex;
+    float: left;
+}
+
+#aside{
+    height: 1500px;
+    width: 1270px;
+    background-color: white;
+    margin-left: 330px;
+
+}
+
+.text{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-color: black;
+    padding: 150px;
+
+}
+
+
+
